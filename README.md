@@ -1,3 +1,11 @@
+# This repository is no longer active.
+⛔ No new issues
+⛔ No pull requests
+⛔ No maintenance
+
+Source code is kept only for reference purposes.
+
+
 # PHP API client for coingecko.com
 
 [![Build Status](https://travis-ci.com/codenix-sv/coingecko-api.svg?branch=master)](https://travis-ci.com/codenix-sv/coingecko-api)
